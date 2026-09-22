@@ -9,23 +9,7 @@ Java·Spring 기반 백엔드를 개발하며, AI 기능과 외부 장치를 서
 
 ## Selected Projects
 
-### 01. [AiStock Backend](https://github.com/ZANDHIFORCE/AI-stock-backend)
-
-**웹·앱 인증과 주가 예측 데이터 관리**  
-2인 팀에서 **백엔드 구현·아키텍처 설계**를 담당했습니다. 팀원은 DB·AI를 맡았습니다.  
-Spring Security의 세션·JWT 인증, JDBC 조건 검색, 예측 결과 이력과 가격 차이 계산을 구현했습니다.
-
-`Java` `Spring Boot` `Spring Security` `JDBC`
-
-### 02. [Minuet](https://github.com/ZANDHIFORCE/Minuet_project)
-
-**학생·강사·레슨 관리와 저장소 계층 분리**  
-설계와 구현을 진행한 **개인 프로젝트**입니다.  
-Spring MVC의 책임을 나누고, 저장소 인터페이스와 메모리·JDBC 구현 및 계층별 테스트를 작성했습니다.
-
-`Java` `Spring MVC` `Thymeleaf` `H2`
-
-### 03. [AI Trainer](https://github.com/ZANDHIFORCE/AITrainer)
+### 01. [AI Trainer](https://github.com/ZANDHIFORCE/AITrainer)
 
 **운동 이미지 분석을 웹 서비스로 연결**  
 Flask 기반 서비스를 구현한 **개인 개발 프로젝트**입니다.  
@@ -33,13 +17,29 @@ Flask 기반 서비스를 구현한 **개인 개발 프로젝트**입니다.
 
 `Python` `Flask` `OpenAI API`
 
-### 04. [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
+### 02. [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
 
 **이미지 수집부터 라벨링·현장 추론까지 연결**  
 앱·서버·장치 연동을 수행한 **개인 프로젝트**입니다.  
 Django 이미지 API, Java Android 라벨링 앱, YOLOv5 수집 로직과 Keras 추론·음성 경고를 연결했습니다.
 
 `Python` `Django` `Android / Java` `Keras`
+
+### 03. [AiStock Backend](https://github.com/ZANDHIFORCE/AI-stock-backend)
+
+**웹·앱 인증과 주가 예측 데이터 관리**  
+2인 팀에서 **백엔드 구현·아키텍처 설계**를 담당했습니다. 팀원은 DB·AI를 맡았습니다.  
+Spring Security의 세션·JWT 인증, JDBC 조건 검색, 예측 결과 이력과 가격 차이 계산을 구현했습니다.
+
+`Java` `Spring Boot` `Spring Security` `JDBC`
+
+### 04. [Minuet](https://github.com/ZANDHIFORCE/Minuet_project)
+
+**학생·강사·레슨 관리와 저장소 계층 분리**  
+설계와 구현을 진행한 **개인 프로젝트**입니다.  
+Spring MVC의 책임을 나누고, 저장소 인터페이스와 메모리·JDBC 구현 및 계층별 테스트를 작성했습니다.
+
+`Java` `Spring MVC` `Thymeleaf` `H2`
 
 ## 기술을 사용한 경험
 
