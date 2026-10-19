@@ -9,21 +9,21 @@ Java·Spring 기반 백엔드를 개발하며, AI 기능과 외부 장치를 서
 
 ## Selected Projects
 
-### 01. [AI Trainer](https://github.com/ZANDHIFORCE/AITrainer)
-
-**운동 이미지 분석을 웹 서비스로 연결**  
-Flask 기반 서비스를 구현한 **개인 개발 프로젝트**입니다.  
-이미지 URL과 예시 데이터를 AI API에 전달하고 자세 분석 결과·운동 강도·식단 가이드를 보여줍니다.
-
-`Python` `Flask` `OpenAI API`
-
-### 02. [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
+### 01. [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
 
 **이미지 수집부터 라벨링·현장 추론까지 연결**  
 앱·서버·장치 연동을 수행한 **개인 프로젝트**입니다.  
 Django 이미지 API, Java Android 라벨링 앱, YOLOv5 수집 로직과 Keras 추론·음성 경고를 연결했습니다.
 
 `Python` `Django` `Android / Java` `Keras`
+
+### 02. [AI Trainer](https://github.com/ZANDHIFORCE/AITrainer)
+
+**운동 이미지 분석을 웹 서비스로 연결**  
+Flask 기반 서비스를 구현한 **개인 개발 프로젝트**입니다.  
+이미지 URL과 예시 데이터를 AI API에 전달하고 자세 분석 결과·운동 강도·식단 가이드를 보여줍니다.
+
+`Python` `Flask` `OpenAI API`
 
 ### 03. [AiStock Backend](https://github.com/ZANDHIFORCE/AI-stock-backend)
 
