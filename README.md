@@ -1,9 +1,3 @@
-# 조동휘 · Backend Developer
-
-Java·Spring 기반 백엔드를 개발하며, AI 기능과 외부 장치를 서비스로 연결하는 경험을 쌓고 있습니다.
-
----
-
 ## 🛠 Tech Stack
 
 ### Main
