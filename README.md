@@ -2,10 +2,71 @@
 
 Java·Spring 기반 백엔드를 개발하며, AI 기능과 외부 장치를 서비스로 연결하는 경험을 쌓고 있습니다.
 
-![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square)
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square)
-![Flask & Django](https://img.shields.io/badge/Flask_·_Django-2563EB?style=flat-square)
+---
+
+## 🛠 Tech Stack
+
+### Main
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Sub
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- **제2회 경희대학교 IT 동아리 연합 해커톤 KhuThon 최우수상** (2017.11)
+- **전자정보대학 SW페스티벌 인기상** (2017.12)
+  - 프로젝트명: **청각장애인을 위한 아두이노를 활용한 IoT 알림등**
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **경희대학교** 컴퓨터공학과 졸업 (2025.02)
+- 🚀 **삼성 청년 SW·AI 아카데미(SSAFY) 16기** (2026.07 입과)
+
+---
+
+## 📜 Certifications
+
+- ✅ **ADsP** · 데이터분석 준전문가 (2026.11.20 취득)
+
+---
+
+## 💬 Languages
+
+- 🗣️ **OPIc IH** · 영어 (2026.11.21 시험)
+
+---
+
+<details>
+<summary>🔎 기술을 사용한 경험</summary>
+
+| 관심 영역 | 프로젝트에서의 적용 |
+| :--- | :--- |
+| 백엔드 구조 | Controller·Service·Repository 역할 분리, 저장소 인터페이스 |
+| 인증과 데이터 | 세션·JWT 인증, JDBC 검색, 이력 관리 |
+| 외부 서비스 연결 | AI API 호출, 이미지 업로드·라벨링 API, 앱·장치 연동 |
+| 검증 | 서비스·저장소·컨트롤러 테스트와 프로젝트별 재현 조건 기록 |
+
+각 저장소의 README에 담당 범위, 구현 근거, 실행 조건과 현재 한계를 정리하고 있습니다.
+
+</details>
+
+---
 
 ## Selected Projects
 
@@ -40,14 +101,3 @@ Spring Security의 세션·JWT 인증, JDBC 조건 검색, 예측 결과 이력�
 Spring MVC의 책임을 나누고, 저장소 인터페이스와 메모리·JDBC 구현 및 계층별 테스트를 작성했습니다.
 
 `Java` `Spring MVC` `Thymeleaf` `H2`
-
-## 기술을 사용한 경험
-
-| 관심 영역 | 프로젝트에서의 적용 |
-| :--- | :--- |
-| 백엔드 구조 | Controller·Service·Repository 역할 분리, 저장소 인터페이스 |
-| 인증과 데이터 | 세션·JWT 인증, JDBC 검색, 이력 관리 |
-| 외부 서비스 연결 | AI API 호출, 이미지 업로드·라벨링 API, 앱·장치 연동 |
-| 검증 | 서비스·저장소·컨트롤러 테스트와 프로젝트별 재현 조건 기록 |
-
-각 저장소의 README에 담당 범위, 구현 근거, 실행 조건과 현재 한계를 정리하고 있습니다.
