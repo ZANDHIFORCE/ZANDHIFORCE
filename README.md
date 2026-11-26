@@ -84,6 +84,6 @@
 ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-2563EB?style=flat-square)
 
-<a href="assets/projects/ai-trainer-result.png">
-  <img src="assets/projects/ai-trainer-summary.png" alt="AI Trainer 결과 요약: 운동 사진과 Shallow Squat 분석 — 클릭하면 원본 화면 보기" width="560">
+<a href="assets/projects/ai-trainer-pose-analysis.png">
+  <img src="assets/projects/ai-trainer-pose-analysis.png" alt="스쿼트 자세의 관절 위치와 정렬 분석을 표시한 AI Trainer 화면 — 클릭하면 원본 보기" width="560">
 </a>
