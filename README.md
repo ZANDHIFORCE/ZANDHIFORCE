@@ -59,7 +59,7 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### 📷 [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
 
@@ -68,7 +68,7 @@
 `Python` `Django` `Android / Java` `Keras`
 
 <a href="assets/projects/urination-detector-overview.png">
-  <img src="assets/projects/urination-detector-overview.png" alt="카메라·서버·라벨링 앱·머신러닝 모듈 구성도 — 클릭하면 원본 보기" height="220">
+  <img src="assets/projects/urination-detector-overview.png" alt="카메라·서버·라벨링 앱·머신러닝 모듈 구성도 — 클릭하면 원본 보기" width="560">
 </a>
 
 ---
