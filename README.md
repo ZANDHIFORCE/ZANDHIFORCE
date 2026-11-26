@@ -59,9 +59,9 @@
 
 ---
 
-##Projects
+## Projects
 
-### 📷 Urination Detector
+### 📷 [Urination Detector](https://github.com/ZANDHIFORCE/UrinationDetector)
 
 **카메라 이미지 수집·라벨링·추론을 연결한 탐지 시스템**
 
@@ -71,18 +71,14 @@
   <img src="assets/projects/urination-detector-overview.png" alt="카메라·서버·라벨링 앱·머신러닝 모듈 구성도 — 클릭하면 원본 보기" height="220">
 </a>
 
-[저장소 보기 ↗](https://github.com/ZANDHIFORCE/UrinationDetector)
-
 ---
 
-### 🏋️ AI Trainer
+### 🏋️ [AI Trainer](https://github.com/ZANDHIFORCE/AITrainer)
 
 **운동 사진을 분석해 자세와 운동 가이드를 제공하는 웹 서비스**
 
 `Python` `Flask` `OpenAI API`
 
 <a href="assets/projects/ai-trainer-result.png">
-  <img src="assets/projects/ai-trainer-result.png" alt="운동 이미지와 자세 분석 결과 화면 — 클릭하면 원본 보기" height="220">
+  <img src="assets/projects/ai-trainer-summary.png" alt="AI Trainer 결과 요약: 운동 사진과 Shallow Squat 분석 — 클릭하면 원본 화면 보기" width="480">
 </a>
-
-[저장소 보기 ↗](https://github.com/ZANDHIFORCE/AITrainer)
