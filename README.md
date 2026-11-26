@@ -65,7 +65,10 @@
 
 **카메라 이미지 수집·라벨링·추론을 연결한 탐지 시스템**
 
-`Python` `Django` `Android / Java` `Keras`
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2563EB?style=for-the-badge&logo=django&logoColor=white)
+![Android / Java](https://img.shields.io/badge/Android_%2F_Java-2563EB?style=for-the-badge&logo=android&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2563EB?style=for-the-badge&logo=keras&logoColor=white)
 
 <a href="assets/projects/urination-detector-overview.png">
   <img src="assets/projects/urination-detector-overview.png" alt="카메라·서버·라벨링 앱·머신러닝 모듈 구성도 — 클릭하면 원본 보기" width="560">
@@ -77,7 +80,9 @@
 
 **운동 사진을 분석해 자세와 운동 가이드를 제공하는 웹 서비스**
 
-`Python` `Flask` `OpenAI API`
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2563EB?style=for-the-badge&logo=flask&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-2563EB?style=for-the-badge)
 
 <a href="assets/projects/ai-trainer-result.png">
   <img src="assets/projects/ai-trainer-summary.png" alt="AI Trainer 결과 요약: 운동 사진과 Shallow Squat 분석 — 클릭하면 원본 화면 보기" width="560">
