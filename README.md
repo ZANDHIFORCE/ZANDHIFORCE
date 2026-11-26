@@ -3,7 +3,6 @@
 ### Main
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Sub
@@ -40,22 +39,6 @@
 
 - ✅ **ADsP** · 데이터분석 준전문가 (2026.11.20 취득)
 - 🗣️ **OPIc IH** · 영어 (2026.11.21 시험)
-
----
-
-<details>
-<summary>🔎 기술을 사용한 경험</summary>
-
-| 관심 영역 | 프로젝트에서의 적용 |
-| :--- | :--- |
-| 백엔드 구조 | Controller·Service·Repository 역할 분리, 저장소 인터페이스 |
-| 인증과 데이터 | 세션·JWT 인증, JDBC 검색, 이력 관리 |
-| 외부 서비스 연결 | AI API 호출, 이미지 업로드·라벨링 API, 앱·장치 연동 |
-| 검증 | 서비스·저장소·컨트롤러 테스트와 프로젝트별 재현 조건 기록 |
-
-각 저장소의 README에 담당 범위, 구현 근거, 실행 조건과 현재 한계를 정리하고 있습니다.
-
-</details>
 
 ---
 
