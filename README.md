@@ -61,7 +61,7 @@
 
 ---
 
-## Selected Projects
+##Projects
 
 ### 📷 Urination Detector
 
