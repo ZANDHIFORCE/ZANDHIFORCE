@@ -80,5 +80,5 @@
 `Python` `Flask` `OpenAI API`
 
 <a href="assets/projects/ai-trainer-result.png">
-  <img src="assets/projects/ai-trainer-summary.png" alt="AI Trainer 결과 요약: 운동 사진과 Shallow Squat 분석 — 클릭하면 원본 화면 보기" width="480">
+  <img src="assets/projects/ai-trainer-summary.png" alt="AI Trainer 결과 요약: 운동 사진과 Shallow Squat 분석 — 클릭하면 원본 화면 보기" width="560">
 </a>
